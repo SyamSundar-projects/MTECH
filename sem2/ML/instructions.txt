@@ -1,0 +1,4 @@
+conda info --envs #to know environments present
+conda activate foml #to go into foml environment
+jupyter lab #to open jupyter notebook
+conda deactivate #to come out of the foml environment
